@@ -12,3 +12,6 @@
         
         
 [brendano samples](http://brenocon.com/muc4_proc/samp200.html)
+
+This version of the MUC dataset has incident dates and incident locations included along with incident type, PerpInd, PerpOrg, Target, Victim and Weapon. This version of the dataset only includes incident dates and locations present directly in the text.
+A version of the MUC dataset with denormalized temporal expressions for dates that are present in the text is in the process of being annotated.
