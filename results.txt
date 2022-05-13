@@ -1,3 +1,5 @@
+Results for 19 epochs, GTT on the MUC dataset
+
 ================= incident_type =================
 P: 85.27%,  R: 53.40%, F1: 65.67%
 ================= incident_date =================
